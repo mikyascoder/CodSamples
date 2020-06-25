@@ -1,2 +1,3 @@
 -Run file.bat to install 
 -Run help.bat to see help 
+-Run uninstall.bat to remove
