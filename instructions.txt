@@ -1,1 +1,2 @@
 -Run file.bat to install 
+-Run help.bat to see help 
